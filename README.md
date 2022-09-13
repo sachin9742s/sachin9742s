@@ -2,7 +2,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sachin9742s/&title=Profile%20Views)
 # My Social Profiles
 <p align="center">
-<a href="https://t.me/sachin_official_admin"><img alt="Telegram" src="https://img.shields.io/badge/sachin9742s-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/sachin_official_admin"><img alt="Telegram" src="https://img.shields.io/badge/sachin S-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
