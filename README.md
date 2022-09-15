@@ -33,7 +33,11 @@
 
 <div align="center">
 
-![🔥](https://github-readme-stats.vercel.app/api?username=sachin9742s&show=prs&count_private=true&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img align="right" alt="GIF" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sachin9742s&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff" />
+
 
 </div>
 
