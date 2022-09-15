@@ -45,3 +45,4 @@
 
 <a href="https://github.com/sachin9742s"><img alt="Sachin S Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachin9742s&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<p align="center"><img src="https://github-sachin9742s.vercel.app/?username=adi-code22&rank=-C,-A" alt="adi-code22" /> </p>
